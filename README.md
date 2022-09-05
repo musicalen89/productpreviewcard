@@ -65,7 +65,7 @@ I want to master HTML and CSS before proceding with project which require JS, PH
 
 ## Author
 
-- Website - [Add your name here](https://github.com/musicalen89)
+- Website - [musicalen89](https://github.com/musicalen89)
 - Frontend Mentor - [@ymusicalen89](https://www.frontendmentor.io/profile/musicalen89)
 
 
